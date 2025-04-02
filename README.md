@@ -59,7 +59,7 @@ Das Projekt besteht aus den folgenden Dateien:
 
 ## Vorschau
 
-![To-Do-Liste Vorschau](https://oth-aw-meiller.github.io/todolist/)
+[To-Do-Liste Vorschau](https://oth-aw-meiller.github.io/todolist/)
 
 ## Lizenz
 
