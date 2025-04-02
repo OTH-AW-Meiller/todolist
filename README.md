@@ -59,7 +59,7 @@ Das Projekt besteht aus den folgenden Dateien:
 
 ## Vorschau
 
-![To-Do-Liste Vorschau](https://via.placeholder.com/800x400?text=To-Do-Liste+Vorschau)
+![To-Do-Liste Vorschau](https://oth-aw-meiller.github.io/todolist/)
 
 ## Lizenz
 
