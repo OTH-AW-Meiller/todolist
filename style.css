@@ -1,0 +1,53 @@
+/* Allgemeine Stile für den Body: Schriftart und Hintergrundfarbe setzen */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Zentriert den Container für die To-Do-Liste und begrenzt die maximale Breite */
+#todo-container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+/* Stile für das Eingabefeld zum Hinzufügen von To-Dos */
+#todo-input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Entfernt Standard-Listenstile und Innenabstand für die To-Do-Liste */
+#todo-list {
+    list-style: none;
+    padding: 0;
+}
+
+/* Allgemeine Stile für Buttons */
+button {
+    padding: 10px;
+}
+
+/* Stile für Listenelemente und deren Inhalt, um sie korrekt auszurichten */
+li, li span {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/* Fügt jedem Listenelement einen Rahmen hinzu */
+li {
+    border: 1px solid #ddd;
+}
+
+/* Stile für abgeschlossene To-Dos: Durchgestrichener Text und graue Farbe */
+.completed span {
+    text-decoration: line-through;
+    color: gray;
+}
+
+/* Stile für Checkboxen mit fester Breite */
+input[type="checkbox"] {
+    width: 20px;
+}
